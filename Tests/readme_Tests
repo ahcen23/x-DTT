@@ -1,1 +1,4 @@
 
+Note:
+To use the test codes, Please change the source link to the used image in the beginning 
+of the script "EVALUATE_xDTT.m" to match the location of your used image.
