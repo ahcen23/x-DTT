@@ -1,4 +1,10 @@
 
-Note:
-To use the test codes, Please change the source link to the used image in the beginning 
+To use the Test codes and reproduce the results please follow the following notes:
+
+1- To use the test codes, Please change the source link to the used image in the beginning 
 of the script "EVALUATE_xDTT.m" to match the location of your used image.
+
+2- If you have used the code for any experiments, please consider that it is 
+mandatory to reference the source of the code and cite this repository.  
+
+3- For any further discussion,bug reporting or suggestitions, please send e-mail to the owner of the package at: ahcen2300@gmail.com
