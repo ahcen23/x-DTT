@@ -20,3 +20,7 @@ The original developer is PhD. Ahcen Aliouat. This toolkit runs on MATLAB R2009a
 Mac OS is not officially supported, but should function as intended. 
 
 Contact Ahcen Aliouat <ahcen2300@gmail.com> with any questions, comments, or concerns regarding this toolkit.
+
+Please cite this article as: 
+Ahcen Aliouat, Nasreddine Kouadria and Doru Florin Chiper, x-DTT: A package for calculating real and Integer Discrete Tchebichef Transform
+kernels based on orthogonal polynomials. SoftwareX (2023) 101441, https://doi.org/10.1016/j.softx.2023.101441.
