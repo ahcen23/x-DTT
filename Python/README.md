@@ -1,0 +1,26 @@
+Easy to use version of x-DTT MATLAB package for DTT and Integer DTT transform kernel generation in PYTHON. This function exists to facilitate the calculation of Discrete Tchebichef Transform (DTT) and Integer Discrete Tchebichef Transform (IDTT) and its inverse operation (Inverse-IDTT).
+
+IDTT is dedicated to the integration of this transformation in the embedded compression systems ( Image and Video Compression) with a low-cost energy budget. While DTT is dedicated to the generation of Discete Tchebichef Transform used for image compression and also for fearures extraction, image analysis, and Deep Learning!.
+
+## Installation
+Run: `pip install .` in the directory containing setup.py.
+
+## Usage
+```python
+from dtt_package.DTT import DTT
+matrix = DTT(8)
+print(matrix)
+
+The result of the DTT calculation in this package is a matrix of size NxN. The results of the IDTT operation are two matrices as below:
+
+    One full Integer Matrix of size NxN named b.
+
+    One Diagonal Matrix of size NxN named c.
+
+The result of the multiplication of b x c is a matrix a.
+
+The original developer is PhD. Ahcen Aliouat. This toolkit runs on MATLAB R2009a or is newer in Microsoft Windows or Linux. Mac OS is not officially supported, but should function as intended.
+
+Contact Ahcen Aliouat ahcen2300@gmail.com with any questions, comments, or concerns regarding this toolkit.
+
+Please cite this article as: Ahcen Aliouat, Nasreddine Kouadria and Doru Florin Chiper, x-DTT: A package for calculating real and Integer Discrete Tchebichef Transform kernels based on orthogonal polynomials. SoftwareX (2023) 101441, https://doi.org/10.1016/j.softx.2023.101441.
