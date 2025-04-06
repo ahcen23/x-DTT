@@ -1,4 +1,4 @@
-Easy to use version of x-DTT MATLAB package for DTT and Integer DTT transform kernel generation in PYTHON. This function exists to facilitate the calculation of Discrete Tchebichef Transform (DTT) and Integer Discrete Tchebichef Transform (IDTT) and its inverse operation (Inverse-IDTT).
+Easy to use version of x-DTT MATLAB and Python package for DTT and Integer DTT transform kernel generation in PYTHON. This function exists to facilitate the calculation of Discrete Tchebichef Transform (DTT) and Integer Discrete Tchebichef Transform (IDTT) and its inverse operation (Inverse-IDTT).
 
 IDTT is dedicated to the integration of this transformation in the embedded compression systems ( Image and Video Compression) with a low-cost energy budget. While DTT is dedicated to the generation of Discete Tchebichef Transform used for image compression and also for fearures extraction, image analysis, and Deep Learning!.
 
